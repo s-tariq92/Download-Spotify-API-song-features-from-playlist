@@ -1,8 +1,6 @@
 # Download-Spotify-API-song-features-from-playlist
-Step by Step code on how to download Spotify music features data using Python and Spotify API
 
-
-Step by step Python code on how to acquire Spotify song features datasets, using their web API. 
+Step by step Python code on how to download Spotify song features datasets, using their web API. 
 Code will target songs in a Spotify playlist.
 
 Spotify has ratings that describe songs. 
